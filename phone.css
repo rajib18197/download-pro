@@ -1,0 +1,29 @@
+
+#navbar h1{
+    font-size: 25px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+    justify-content: center;
+    align-items: center;
+    height: 1100px;
+    margin-top: 8%;
+
+}
+.box{
+    padding: 5px ;
+}
+.item{
+    width: 60%;
+    height: 300px;
+}
+.item h3{
+    margin-top: 0;
+    padding-bottom: 13%;
+}
+.item i{
+    width: 20%;
+}
+
